@@ -1,6 +1,6 @@
 Fusion 360 CAD file and STEP files for the **3D printed thermometer holders**.
 
-Those allow to remote monitor the temperature inside a Bambu Lab P1 printer.
+Those allow to remote monitor the temperature inside a Bambu Lab P1S printer via the on-board camera.
 
 Details in this post: https://raphtronic.blogspot.com/2024/01/diy-remote-temperature-monitoring-bambu.html
 
