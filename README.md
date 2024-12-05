@@ -6,6 +6,8 @@ Both models need to be printed face down on the plate.
 
 Details in this post: https://raphtronic.blogspot.com/2024/01/diy-remote-temperature-monitoring-bambu.html
 
+Feel free to copy / remix / whatever.
+
 Happy printing to all !
 
 ![Printed thermometers](https://github.com/RaphTronic/Thermometer_Holders_P1_Printer/assets/35200718/7042812b-bad9-49de-81db-ccdb225665d8)
